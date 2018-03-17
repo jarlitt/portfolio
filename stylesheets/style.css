@@ -60,7 +60,7 @@ body {
 }
 
 .navmenu {
-  -webkit-padding-start: 0;
+  padding-left: 0px;
 }
 
 .navelement{
